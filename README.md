@@ -1,1 +1,3 @@
-# voce que um cara quebrado ou um cara ocupado
+meu nome e Muryel 
+Estou estudando na Alura
+Etou me desenvolvendo na linguagem JavaScript
